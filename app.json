@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "My Players",
+    "icon": "./src/assets/icon.png",
+    "version": "1.0.0",
+    "slug": "myplayers",
+    "ios": {
+      "bundleIdentifier": "com.myplayers",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.my_players",
+      "versionCode": 1
+    }
+  }
+}
